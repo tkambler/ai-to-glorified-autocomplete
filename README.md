@@ -57,3 +57,7 @@ A background service worker (`background.js`) tracks replacement counts per tab 
 | groundbreaking   | iterative, mildly interesting, not entirely new                              |
 | AI-powered       | bullshit-powered, hype-powered, autocomplete-enhanced                        |
 | Nvidia           | the GPU loan shark                                                           |
+
+## Screenshot
+
+![Screenshot](./screenshot.png)
