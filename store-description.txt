@@ -1,0 +1,18 @@
+Tired of every headline breathlessly describing AI as "revolutionary" and "game-changing"? This extension fixes that.
+
+AI to Glorified Autocomplete replaces AI hype terminology with what it actually is. "Artificial intelligence" becomes "a computer program doing a lot of guesswork." "Machine learning" becomes "statistics with a marketing team." Sam Altman becomes "tech's most camera-ready bullshit salesman."
+
+The extension covers 150+ terms across companies, products, people, technical jargon, and hype adjectives. Replacements rotate so AI-heavy articles stay varied and funny.
+
+Features:
+• Replaces AI hype terminology on every page you visit
+• Shuffled replacement pools prevent repetitive reading
+• Works on dynamic content and single-page apps
+• Per-site disable list — turn it off on specific sites
+• Highlight mode — see exactly which words were changed
+• Replacement counter — badge shows how many terms were swapped
+• One-click toggle with automatic page reload
+
+All data stays on your device. No tracking, no analytics, no servers.
+
+Inspired by the classic "Cloud to Butt" extension, but with more contempt.
