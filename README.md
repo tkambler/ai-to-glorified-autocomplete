@@ -4,7 +4,7 @@ A Chrome extension that replaces AI hype terminology with what it actually is.
 
 "Artificial intelligence" becomes "a computer program doing a lot of guesswork." "Machine learning" becomes "statistics with a marketing team." Sam Altman becomes "tech's most camera-ready bullshit salesman." OpenAI becomes "the world's best-funded bullshit factory."
 
-Inspired by the classic Cloud to Butt extension, but with more contempt.
+Inspired by the classic [Cloud to Butt](https://deepgram.com/learn/cloud-to-butt) extension, but with more contempt.
 
 ## Features
 
@@ -45,15 +45,15 @@ A background service worker (`background.js`) tracks replacement counts per tab 
 
 ## Sample replacements
 
-| Original | Replacement |
-|---|---|
-| AI | glorified autocomplete, fancy guesswork, spicy autocomplete, ... (8 options) |
-| OpenAI | the world's best-funded bullshit factory |
-| ChatGPT | the chatbot |
-| machine learning | statistics with a marketing team, math in a trench coat, ... |
-| hallucination | making shit up, fabrication, confident lying |
-| LLM | word guesser, text predictor, stochastic parrot |
-| neural network | pile of math, stack of linear algebra, ... |
-| groundbreaking | iterative, mildly interesting, not entirely new |
-| AI-powered | bullshit-powered, hype-powered, autocomplete-enhanced |
-| Nvidia | the GPU loan shark |
+| Original         | Replacement                                                                  |
+| ---------------- | ---------------------------------------------------------------------------- |
+| AI               | glorified autocomplete, fancy guesswork, spicy autocomplete, ... (8 options) |
+| OpenAI           | the world's best-funded bullshit factory                                     |
+| ChatGPT          | the chatbot                                                                  |
+| machine learning | statistics with a marketing team, math in a trench coat, ...                 |
+| hallucination    | making shit up, fabrication, confident lying                                 |
+| LLM              | word guesser, text predictor, stochastic parrot                              |
+| neural network   | pile of math, stack of linear algebra, ...                                   |
+| groundbreaking   | iterative, mildly interesting, not entirely new                              |
+| AI-powered       | bullshit-powered, hype-powered, autocomplete-enhanced                        |
+| Nvidia           | the GPU loan shark                                                           |
